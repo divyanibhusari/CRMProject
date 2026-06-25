@@ -1,0 +1,6 @@
+{
+  "name": "VIP Project Real Estate CRM",
+  "description": "An enterprise-grade Real Estate CRM for VIP Project featuring lead management, follow-ups, site visits, bookings, payments, and 99acres sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
